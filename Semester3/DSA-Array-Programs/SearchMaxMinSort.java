@@ -45,5 +45,3 @@ public class SearchMaxMinSort{
 	System.out.print("Sorted: "+Arrays.toString(a));
     }
 }
-	
-	
